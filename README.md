@@ -1,6 +1,6 @@
 # Swervo — FTC Team 26256
 
-A responsive, single-page team site built with React, Tailwind CSS, Framer Motion, and Vite.
+A responsive FTC team site built with React, Tailwind CSS, Framer Motion, and Vite. The page features the team supplied robot photo and logo, plus sections for the robot, team disciplines, community outreach, and sponsorship.
 
 ## Run locally
 
@@ -11,6 +11,7 @@ npm run dev
 
 Create a production build with `npm run build`.
 
-## Content to customize
+## Content notes
 
-The team bios, robot telemetry, season dates, outreach count, and sponsor tier amounts are sample content in `src/App.jsx`. The sponsor form currently shows an on-page confirmation and is not connected to an email or backend service. Social links are placeholders except for the team repository link.
+The robot image and team logo are in `public/`. The sponsorship interest form currently confirms locally and does not send submissions; connect a team email or form service before relying on it.
+

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" role="img" aria-labelledby="title desc">
+  <title id="title">Swervo FTC Team 26256</title>
+  <desc id="desc">A clean robot-inspired Swervo team mark.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4">
+    <path d="M8 22h8l5-7h17l6 7h7v20h-7l-6 7H21l-5-7H8z" stroke="#dfff71"/>
+    <path d="M19 27h21M18 34h23M21 40h17" stroke="#f2f3f0"/>
+    <path d="M26 15V9m7 6V7m7 8V11" stroke="#dfff71"/>
+    <circle cx="20" cy="49" r="2" fill="#61a9ff" stroke="#61a9ff"/><circle cx="39" cy="49" r="2" fill="#61a9ff" stroke="#61a9ff"/>
+  </g>
+  <text x="61" y="34" fill="#f2f3f0" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="3.3">SWERVO</text>
+  <text x="62" y="50" fill="#929399" font-family="'DM Mono', monospace" font-size="8" letter-spacing="2.1">FIRST TECH CHALLENGE · 26256</text>
+</svg>
+

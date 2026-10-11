@@ -20,3 +20,5 @@
 
 .programming-team-heading{margin-top:25px}.programming-team-roster .team-member-image{background:#111113}
 
+.scouting-lead-heading{display:flex;align-items:center;justify-content:space-between;margin:28px 2px 12px}.scouting-lead-heading>span:last-child{font:8px var(--mono);letter-spacing:.1em;color:#77797e}.scouting-leads-grid{grid-template-columns:1fr 1fr}.scouting-lead-card{background:radial-gradient(ellipse at 10% 50%,#ffffff0b,transparent 60%),linear-gradient(120deg,#ffffff07,#ffffff02)}@media(max-width:650px){.scouting-lead-heading{margin-top:23px}}
+
